@@ -51,7 +51,7 @@ $ go get -u -v github.com/zu1k/proxypool
 
 ### 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/zu1k/proxypool/releases)
+从这里下载预编译好的程序 [release](https://github.com/lixifeng497/proxypool/releases)
 
 ### 使用docker
 
